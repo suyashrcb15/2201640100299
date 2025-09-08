@@ -34,8 +34,6 @@ Open http://localhost:3000
 
 ## Final Output
 
-![Url Outpur](<img width="1920" height="1200" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/0c8c54f5-4154-4ac1-925c-e763b9208d15" />
-)
+![Screenshot (102)](https://github.com/user-attachments/assets/0c8c54f5-4154-4ac1-925c-e763b9208d15)
 
-![middleware Output](<img width="1920" height="462" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/f3a54759-5b2a-4c40-ad24-e358b7efd6d7" />
-)
+![Screenshot (76)](https://github.com/user-attachments/assets/f3a54759-5b2a-4c40-ad24-e358b7efd6d7)
